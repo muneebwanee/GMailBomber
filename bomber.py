@@ -18,8 +18,8 @@ if len(sys.argv) < 2:
 ╭━━┳━┳━╮╱╱╭╮╱╭━━╮╱╱╱╱╭╮
 ┃╭━┫┃┃┃┣━╮┣╋╮┃╭╮┣━┳━━┫╰┳━┳┳╮
 ┃╰╮┃┃┃┃┃╋╰┫┃╰┫╭╮┃╋┃┃┃┃╋┃┻┫╭╯
-╰━━┻┻━┻┻━━┻┻━┻━━┻━┻┻┻┻━┻━┻╯
-    """  + END+BLUE+'GMailBomber'.format(RED, END).center(69) +
+╰━━┻┻━┻┻━━┻┻━┻━━┻━┻┻┻┻━┻━┻╯ V:1.0
+    """  + END+BLUE+'https://github.com/muneebwanee/GMailBomber'.format(RED, END).center(69) +
     '\n' + '\tGMailBomber brought to you by {}muneebwanee.'.format(YELLOW, RED, YELLOW, BLUE).center(76) +
     '\n' + '\tGithub: muneebwanee\n'.format(YELLOW).center(80) +
     '\n' + '\tVersion: {}1.0{}\n'.format(YELLOW, END).center(80) + '\n')
